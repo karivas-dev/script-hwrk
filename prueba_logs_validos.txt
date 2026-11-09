@@ -1,0 +1,5 @@
+[INFO] 2025-01-10 User logged in
+[WARNING] 2025-02-15 Multiple login attempts
+[ERROR] 2025-03-20 Database unavailable
+[INFO] 2025-04-01 Report generated
+[ERROR] 2025-05-05 Backup failed

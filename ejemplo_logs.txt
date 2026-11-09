@@ -1,0 +1,18 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-01-10 Failed to connect to database
+[WARNING] Invalid password attempt
+[INFO] 2025-02-15 User logged out
+[ERROR] 2025-13-45 Invalid date format
+This is an invalid log entry
+[WARNING] 2025-03-20 Multiple login attempts
+[DEBUG] 2025-03-21 Debugging application
+[ERROR] 2025-04-01 Service unavailable
+
+[INFO] 2025/04/15 Wrong date separator
+[WARNING] 2025-02-30 Impossible calendar date
+[INFO] 2025-05-05 Report generated
+[CRITICAL] 2025-05-06 Unknown severity
+[ERROR] 2025-01-10
+[WARNING] 2025-06-30 Configuration changed
+[INFO] 2025-02-29 Non-leap year date
+[ERROR] 2025-07-04 Backup completed
